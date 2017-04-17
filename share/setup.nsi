@@ -5,7 +5,7 @@ SetCompressor /SOLID lzma
 
 # General Symbol Definitions
 !define REGKEY "SOFTWARE\$(^Name)"
-!define VERSION 1.0.5.0
+!define VERSION 1.0.6.0
 !define COMPANY "FutureCoin1"
 !define URL http://www.futurecoin1.org
 
